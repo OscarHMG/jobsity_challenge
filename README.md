@@ -14,6 +14,11 @@ Once the application has been compiled successfully you can execute it by naviga
 
 The application will ask for the score source file (i.e. C:\scores.txt) and then calculate and display the scores table for each player in the game.
 
+## Example data
+Example data is available for you to test the application in the data folder.
+
+You may use this data to test the end-to-end functionality.
+
 ## Purpose
 This application calculates and shows the score for a ten-pin bowling game for several `Player`. 
 
